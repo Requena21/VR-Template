@@ -1,2 +1,2 @@
 # VR Template
- VR template with URP
+ VR template with URP for oculus quest 2.
