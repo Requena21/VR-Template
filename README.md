@@ -1,2 +1,2 @@
 # VR Template
- VR template with URP for oculus quest 2.
+Unity VR template for oculus quest 2. It is made with URP.
